@@ -16,6 +16,33 @@ Acumos Ai est une plateforme facilitant l'acces au deep learning et machine lear
   * orienté utilisateur
   * comprend déjà de nombreuses applications comme la reconnaissance faciale, le classement d'image...
   https://www.acumos.org/
+  
+## IOT gateway
+
+Mozilla a lancé un projet de gateway d'objet connectés personnel. L'idée est de se défaire du lien imposé par differents fournisseur.  L'avis de Mozilla est que le fait que chaque fournisseur utilise des produit fermé nuit à la fiabilité des produits et aussi empeche leurs évolutions. Si l'on veut plus que des lampes connectés il faut de l'open source. 
+
+https://blog.mozilla.org/blog/2018/02/06/announcing-project-things-open-framework-connecting-devices-web/
+
+### Mozilla’s Things Gateway
+
+ * opensource
+ * offline
+ * compatible raspi
+ https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/
+ 
+### Thingsboard
+
+Je n'ai pas encore regardé ce que c'est en détail mais cela me semble interessant alors je note.
+
+https://thingsboard.io/docs/
+
+### Kura
+
+http://wiki.eclipse.org/Kura
+
+### EdgeX foundry
+
+https://www.edgexfoundry.org/
 
 ## ASR : automatic Speech Recognition
 
