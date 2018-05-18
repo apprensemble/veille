@@ -1,6 +1,22 @@
 # veille
 diverses ressources de veille techno que je ne sais pas où mettre.
 
+## Machine Learning
+
+Le machine learning devient de plus en plus courant. Google rend cela très accessible via ses plateformes cloud. Mais peut-on en faire autant sur des plateformes privées?
+
+La réponse est oui via tensorflow de google par exemple. C'est opensource. Cela ne semble pas assez simple?
+Certain partage cet avis. C'est le cas de la Linux Fondation qui pense que le machine learning et deep learning doivent être plus accessible. Recement ils ont formé la LF DEEP Learning. Une nouvelle fondation orientée Intelligence artificielle. Le premier projets soutenu est Acumos.
+
+### Acumos AI
+
+Acumos Ai est une plateforme facilitant l'acces au deep learning et machine learning aux utilisateurs non datascientist.
+
+  * opensource
+  * orienté utilisateur
+  * comprend déjà de nombreuses applications comme la reconnaissance faciale, le classement d'image...
+  https://www.acumos.org/
+
 ## ASR : automatic Speech Recognition
 
 ### Jasper
