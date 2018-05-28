@@ -1,6 +1,24 @@
 # veille
 diverses ressources de veille techno que je ne sais pas où mettre.
 
+## Cloud
+
+### OpenStack
+
+https://www.openstack.org/software/
+
+### DC/OS
+
+https://dcos.io/
+
+### Kubevirt
+
+https://github.com/kubevirt
+
+### KataContainers
+
+https://katacontainers.io/
+
 ## Machine Learning
 
 Le machine learning devient de plus en plus courant. Google rend cela très accessible via ses plateformes cloud. Mais peut-on en faire autant sur des plateformes privées?
